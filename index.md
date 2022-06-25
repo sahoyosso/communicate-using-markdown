@@ -3,7 +3,7 @@
 Learning Github markdown
 ### Subsection 2
 Git hub markdown is pretty basic
-## [New Page ](https://sahoyosso.github.io/communicate-using-markdown/page1/map_gallery)
+## [New Page ](https://sahoyosso.github.io/communicate-using-markdown/page1/map_gallery.html)
 ### Subsection 3 
 Adding Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
